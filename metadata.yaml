@@ -1,5 +1,5 @@
 _repo: Minions-of-the-Crystal-Sphere_63134
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Elias, Lee
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '52217'
     url: http://www.gutenberg.org/2009/agents/52217
     wikipedia: https://en.wikipedia.org/wiki/Lee_Elias
+covers:
+- cover_type: archival
+  image_path: 63134-h/images/cover.jpg
 creator:
   author:
     agent_name: dePina, Albert
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '51852'
     url: http://www.gutenberg.org/2009/agents/51852
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63134#Minions-of-the-Crystal-Sphere
 gutenberg_issued: '2020-09-06'
 gutenberg_type: Text
 identifiers:
